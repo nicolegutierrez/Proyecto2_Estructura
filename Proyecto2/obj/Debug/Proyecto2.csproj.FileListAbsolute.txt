@@ -1,0 +1,30 @@
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Del Cid\Desktop\ESTRUCTURA DE DATOS I\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojResolveAssemblyReference.cache
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+D:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+D:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+D:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+D:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+G:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+G:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+G:\PROYECTO #2\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+G:\PROYECTO #2\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
